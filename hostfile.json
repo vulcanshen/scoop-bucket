@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/vulcanshen/hostfile/releases/download/v1.0.0/hostfile_1.0.0_windows_amd64.zip",
+            "bin": [
+                "hostfile.exe"
+            ],
+            "hash": "c57330c1b2b1bc76e8d35d9c84172366ffbe00037c1df9150c394e69fe97b37d"
+        },
+        "arm64": {
+            "url": "https://github.com/vulcanshen/hostfile/releases/download/v1.0.0/hostfile_1.0.0_windows_arm64.zip",
+            "bin": [
+                "hostfile.exe"
+            ],
+            "hash": "479637adeed6b5327bcc07c08f086a39bc614a0d693678c7430754e5eafb6385"
+        }
+    },
+    "homepage": "https://github.com/vulcanshen/hostfile",
+    "description": "Cross-platform hosts file manager CLI"
+}
