@@ -1,0 +1,21 @@
+{
+    "version": "3.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/vulcanshen/clerk/releases/download/v3.0.0/clerk_3.0.0_windows_amd64.zip",
+            "bin": [
+                "clerk.exe"
+            ],
+            "hash": "ac333e2250818816775103583da98d222cea0409c86059410691dab70b7f0bec"
+        },
+        "arm64": {
+            "url": "https://github.com/vulcanshen/clerk/releases/download/v3.0.0/clerk_3.0.0_windows_arm64.zip",
+            "bin": [
+                "clerk.exe"
+            ],
+            "hash": "38293b70e565075def3a0252d63931bb232b29f9378278d7509d42ba95e153f8"
+        }
+    },
+    "homepage": "https://github.com/vulcanshen/clerk",
+    "description": "The Claude Code Clerk — auto-summarize your sessions"
+}
