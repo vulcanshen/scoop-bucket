@@ -1,19 +1,19 @@
 {
-    "version": "1.5.3",
+    "version": "1.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/hostfile/releases/download/v1.5.3/hostfile_1.5.3_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/hostfile/releases/download/v1.6.0/hostfile_1.6.0_windows_amd64.zip",
             "bin": [
                 "hostfile.exe"
             ],
-            "hash": "4dc82bb23333650aeee5c4498df20544dea0b6acb3682c5cf4be9451586334eb"
+            "hash": "8430c74685b03406ab638064809e9d76c7141439fea79334db30fd2177f14d5d"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/hostfile/releases/download/v1.5.3/hostfile_1.5.3_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/hostfile/releases/download/v1.6.0/hostfile_1.6.0_windows_arm64.zip",
             "bin": [
                 "hostfile.exe"
             ],
-            "hash": "2c46241ae54415f767452f4904e49b1ce221596788a651df8ca7f54d70d0ecc0"
+            "hash": "d13b7cde5a435774ae6b8c2525966e48fbac9858dfb2361197960fae4f87dd15"
         }
     },
     "homepage": "https://github.com/vulcanshen/hostfile",
