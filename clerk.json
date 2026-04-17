@@ -1,19 +1,19 @@
 {
-    "version": "3.2.13",
+    "version": "3.2.14",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/clerk/releases/download/v3.2.13/clerk_3.2.13_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/clerk/releases/download/v3.2.14/clerk_3.2.14_windows_amd64.zip",
             "bin": [
                 "clerk.exe"
             ],
-            "hash": "77a393a80d581d8b4458d39c8874c3d575abf9738c243d3192e1309427617c7b"
+            "hash": "35a69d3ffb4d87f2df96c44164fc2749ad853a3a3a9a7bcbdc04c4cef78f5894"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/clerk/releases/download/v3.2.13/clerk_3.2.13_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/clerk/releases/download/v3.2.14/clerk_3.2.14_windows_arm64.zip",
             "bin": [
                 "clerk.exe"
             ],
-            "hash": "c1ab7aace79c4e9983881500075587f37784304f19f3e3fd7e9d421abb7c4bd7"
+            "hash": "0f2ae60264f03248132d80d1ff3ae766f8c775ddf2a20b9f40cd687f2627e355"
         }
     },
     "homepage": "https://github.com/vulcanshen/clerk",
