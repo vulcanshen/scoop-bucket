@@ -6,14 +6,14 @@
             "bin": [
                 "clerk.exe"
             ],
-            "hash": "225016ed36a881847d15d4cabfbd72d2fecdf15a747f1f8b997b23fce703faf8"
+            "hash": "3c4db8ffeb72ef48d68e922001baad576fcc85aaabb3e11429ceb64997958777"
         },
         "arm64": {
             "url": "https://github.com/vulcanshen/clerk/releases/download/v3.2.7/clerk_3.2.7_windows_arm64.zip",
             "bin": [
                 "clerk.exe"
             ],
-            "hash": "25d5e13ddd5ff119fa0e9215278797b759ec8bca137d1f6f30b295228c8d8b30"
+            "hash": "58e2ab4db6f75016eeedf4e350459bcf68afa8848a1cd7988484d054b3fd1ac9"
         }
     },
     "homepage": "https://github.com/vulcanshen/clerk",
