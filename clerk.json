@@ -1,19 +1,19 @@
 {
-    "version": "5.0.2",
+    "version": "5.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/clerk/releases/download/v5.0.2/clerk_5.0.2_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/clerk/releases/download/v5.1.0/clerk_5.1.0_windows_amd64.zip",
             "bin": [
                 "clerk.exe"
             ],
-            "hash": "73b7862402d36db631b435fe9112d3d6acd380550a56d46b0dcb31e7d807c465"
+            "hash": "aaa07032fb35e1935fa50e836c166c07557844d5f462be269586f611db264d1a"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/clerk/releases/download/v5.0.2/clerk_5.0.2_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/clerk/releases/download/v5.1.0/clerk_5.1.0_windows_arm64.zip",
             "bin": [
                 "clerk.exe"
             ],
-            "hash": "0810421b4240822a1a90588e77c6fb714939bd71d258044eaa28b16e9b456af6"
+            "hash": "6792fa9842c183c1d8ecd8977a3a1d57414b211b2189b9020a0265cf8fca9749"
         }
     },
     "homepage": "https://github.com/vulcanshen/clerk",
