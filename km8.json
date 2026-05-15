@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/vulcanshen/km8/releases/download/v1.0.0/km8_1.0.0_windows_amd64.zip",
+            "bin": [
+                "km8.exe"
+            ],
+            "hash": "c31199441367b1bd92e6800d4e57ed19b46c7689e974b52f70882732a1a5254d"
+        },
+        "arm64": {
+            "url": "https://github.com/vulcanshen/km8/releases/download/v1.0.0/km8_1.0.0_windows_arm64.zip",
+            "bin": [
+                "km8.exe"
+            ],
+            "hash": "1eaa7f251b028ab6a992322783ec5b87b91bc01b3a5a256fb00cf3eee2d895d9"
+        }
+    },
+    "homepage": "https://github.com/vulcanshen/km8",
+    "description": "Kubernetes TUI management tool inspired by Lens IDE"
+}
