@@ -1,19 +1,19 @@
 {
-    "version": "1.7.5",
+    "version": "1.7.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/km8/releases/download/v1.7.5/km8_1.7.5_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/km8/releases/download/v1.7.6/km8_1.7.6_windows_amd64.zip",
             "bin": [
                 "km8.exe"
             ],
-            "hash": "46d9a17ed4d6abfa47524a819a57e3d581b0647f4e29d3a0cba61eb4be89a63b"
+            "hash": "1d0e1f33db87f28fa69c3c14e53130939ca6565e6c3f2a034c8b385e420707e2"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/km8/releases/download/v1.7.5/km8_1.7.5_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/km8/releases/download/v1.7.6/km8_1.7.6_windows_arm64.zip",
             "bin": [
                 "km8.exe"
             ],
-            "hash": "ddef8be509b66343f3b8c19277c0133cf5eda43c1e0d7740a1e97189f9393943"
+            "hash": "962859a67f080f0675ba9031088b9afbbc07a42116582c7a89ae8ebcead07f8d"
         }
     },
     "homepage": "https://github.com/vulcanshen/km8",
