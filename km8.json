@@ -16,6 +16,11 @@
             "hash": "d2af1e7c399379402698c25a4261f690a9c650334a497bd61bd241ad6530d600"
         }
     },
-    "homepage": "https://github.com/vulcanshen/km8",
-    "description": "Kubernetes TUI management tool inspired by Lens IDE"
+    "homepage": "https://github.com/vulcanshen/kbu",
+    "description": "Kubernetes TUI management tool inspired by Lens IDE (renamed to kbu as of v2.0.0)",
+    "notes": [
+        "km8 has been renamed to kbu as of v2.0.0.",
+        "This manifest is kept one release for migration and will be removed in v2.1.",
+        "Switch with: scoop uninstall km8; scoop install kbu"
+    ]
 }
