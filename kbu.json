@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/vulcanshen/km8/releases/download/v2.0.0/kbu_2.0.0_windows_amd64.zip",
+            "bin": [
+                "kbu.exe"
+            ],
+            "hash": "9037bd559e379e2908bb0f088c0adc8fa5e1d2c422d4bb1c18c81654433453a1"
+        },
+        "arm64": {
+            "url": "https://github.com/vulcanshen/km8/releases/download/v2.0.0/kbu_2.0.0_windows_arm64.zip",
+            "bin": [
+                "kbu.exe"
+            ],
+            "hash": "517375c52ea20ef983fc864f4fb1d3ba2ee3182643d8c6eae5946d745b04f7b2"
+        }
+    },
+    "homepage": "https://github.com/vulcanshen/kbu",
+    "description": "Kubernetes TUI management tool inspired by Lens IDE"
+}
