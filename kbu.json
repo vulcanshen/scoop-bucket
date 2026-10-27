@@ -1,21 +1,21 @@
 {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/kbu/releases/download/v3.0.0/kbu_3.0.0_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/kbu/releases/download/v4.0.0/kbu_4.0.0_windows_amd64.zip",
             "bin": [
                 "kbu.exe"
             ],
-            "hash": "2dd45039dd3117b5f0c54321ba9fdb04cf3ff3aa8effd0de3317f9f8d26434b4"
+            "hash": "4e0097a2934135687b36beb820c3802fa4ffd1c603fbf9756ff101a7afe80b6c"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/kbu/releases/download/v3.0.0/kbu_3.0.0_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/kbu/releases/download/v4.0.0/kbu_4.0.0_windows_arm64.zip",
             "bin": [
                 "kbu.exe"
             ],
-            "hash": "2791bf36b68df3048c9584b51632d67312e3edda532c27ea4f7e4a462d09c4a6"
+            "hash": "900fee030e9f30c8626a68188e23bce7036b64cb7ccffee42e43fe0ef4c5fbf5"
         }
     },
     "homepage": "https://github.com/vulcanshen/kbu",
-    "description": "Kubernetes TUI management tool inspired by Lens IDE"
+    "description": "kbu: a Kubernetes TUI inspired by Lens IDE (terminu family)"
 }
