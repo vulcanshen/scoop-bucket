@@ -1,21 +1,21 @@
 {
-    "version": "0.1.4",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/ccdrawu/releases/download/v0.1.4/ccdrawu_0.1.4_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/ccdrawu/releases/download/v1.0.0/ccdrawu_1.0.0_windows_amd64.zip",
             "bin": [
                 "ccdrawu.exe"
             ],
-            "hash": "1d91a8d745414f34c67537965ab4c0f90136da57f8bdea839e9572c6df140b91"
+            "hash": "b9a787abd882e7de974c5e3f3cf18ceeaa74ce849bd01c5635daca96da18795f"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/ccdrawu/releases/download/v0.1.4/ccdrawu_0.1.4_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/ccdrawu/releases/download/v1.0.0/ccdrawu_1.0.0_windows_arm64.zip",
             "bin": [
                 "ccdrawu.exe"
             ],
-            "hash": "26103e7c9837cfff25c79732b997d263dbef575ab0d55c6e37164232a740ca40"
+            "hash": "9cfbb04bbf946cae01630b316df6e7205b12c6d18b503715ce6198add7b07be2"
         }
     },
     "homepage": "https://github.com/vulcanshen/ccdrawu",
-    "description": "status drawer for Claude Code (u-family) — usage limits, context, model, cost and git beside the transcript; ccdrawu picks what it shows"
+    "description": "ccdrawu: a status drawer for Claude Code — usage limits, context, model, cost and git beside the transcript (terminu family)"
 }
