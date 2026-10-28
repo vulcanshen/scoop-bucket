@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/ccdrawu/releases/download/v1.0.0/ccdrawu_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/ccdrawu/releases/download/v1.0.1/ccdrawu_1.0.1_windows_amd64.zip",
             "bin": [
                 "ccdrawu.exe"
             ],
-            "hash": "b9a787abd882e7de974c5e3f3cf18ceeaa74ce849bd01c5635daca96da18795f"
+            "hash": "afc0415a798b437fadb827da6584345d717639a003a1b24f41074561db912592"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/ccdrawu/releases/download/v1.0.0/ccdrawu_1.0.0_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/ccdrawu/releases/download/v1.0.1/ccdrawu_1.0.1_windows_arm64.zip",
             "bin": [
                 "ccdrawu.exe"
             ],
-            "hash": "9cfbb04bbf946cae01630b316df6e7205b12c6d18b503715ce6198add7b07be2"
+            "hash": "3a9c9e5ad09eb3d6cc1b88effcf3e0936d1ebbbec21bdeb1ca94b80b398d82cf"
         }
     },
     "homepage": "https://github.com/vulcanshen/ccdrawu",
