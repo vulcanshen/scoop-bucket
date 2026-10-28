@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/hostu/releases/download/v1.0.0/hostu_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/hostu/releases/download/v1.0.1/hostu_1.0.1_windows_amd64.zip",
             "bin": [
                 "hostu.exe"
             ],
-            "hash": "8410e70e069738f82ce0fc54ce9278f222ccfa4099852f77f1d3dfff8bfe8894"
+            "hash": "6a42c4da8052c0ecbe66c59f23da44fe1a462207e6fafa0da3dc9ebc5b8f6987"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/hostu/releases/download/v1.0.0/hostu_1.0.0_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/hostu/releases/download/v1.0.1/hostu_1.0.1_windows_arm64.zip",
             "bin": [
                 "hostu.exe"
             ],
-            "hash": "193c1962645bfc0bb1438ce71a1466f41636e7b14aa744bb3675b8be0445a6cc"
+            "hash": "25f48ad545ac45cc223388d319ab86d3ead88aea667fa81cd7ae8a621e9c1777"
         }
     },
     "homepage": "https://github.com/vulcanshen/hostu",
