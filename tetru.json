@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/tetru/releases/download/v0.1.0/tetru_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/tetru/releases/download/v0.2.0/tetru_0.2.0_windows_amd64.zip",
             "bin": [
                 "tetru.exe"
             ],
-            "hash": "b2279153e1460fd57096ad0ec5f2ac85b65ff7caa68d046ad2b63f8ade11ee18"
+            "hash": "3e0c4eae1f71c90c5d37b1ffa926ab86abecb549886578a684f6c1fab66b2da7"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/tetru/releases/download/v0.1.0/tetru_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/tetru/releases/download/v0.2.0/tetru_0.2.0_windows_arm64.zip",
             "bin": [
                 "tetru.exe"
             ],
-            "hash": "c104f8f533b60668efb67240972f57be58ca93faac840c7900978909e4308b0c"
+            "hash": "85cbdd2eb6a4b7888de2d983f13419bed0e992b79fda6ab65057cd76dd32c45a"
         }
     },
     "homepage": "https://github.com/vulcanshen/tetru",
