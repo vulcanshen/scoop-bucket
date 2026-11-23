@@ -1,19 +1,19 @@
 {
-    "version": "4.1.2",
+    "version": "4.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/kbu/releases/download/v4.1.2/kbu_4.1.2_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/kbu/releases/download/v4.1.3/kbu_4.1.3_windows_amd64.zip",
             "bin": [
                 "kbu.exe"
             ],
-            "hash": "5fb5067a6c21f37ce6edbc49e1fb9a667f7d9db2e5502ef939212dda00e37fd0"
+            "hash": "2b596afaa12056b3c7dcc45e5099ffef3670873130aba6e118639123aba83ca6"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/kbu/releases/download/v4.1.2/kbu_4.1.2_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/kbu/releases/download/v4.1.3/kbu_4.1.3_windows_arm64.zip",
             "bin": [
                 "kbu.exe"
             ],
-            "hash": "1af2de12e4907d15a7c4053087ba88b8fe245225731722e335b3f1fb7b5f73a6"
+            "hash": "1ceb44f648ccbac9aabf97c210492726fc0d52d1fd8e5b745e94247087e6bad5"
         }
     },
     "homepage": "https://github.com/vulcanshen/kbu",
