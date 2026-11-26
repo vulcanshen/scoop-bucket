@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen/gittu/releases/download/v0.1.1/gittu_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen/gittu/releases/download/v0.2.0/gittu_0.2.0_windows_amd64.zip",
             "bin": [
                 "gittu.exe"
             ],
-            "hash": "ae87bf0732a78c89d5994a57889f8f99272482b85a34269d0e61755bff5efa7c"
+            "hash": "193d80c9991d2f323bf7695e6d08be706e310a8e192a7bfda75ebd7d6b9fff7b"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen/gittu/releases/download/v0.1.1/gittu_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen/gittu/releases/download/v0.2.0/gittu_0.2.0_windows_arm64.zip",
             "bin": [
                 "gittu.exe"
             ],
-            "hash": "35f7ebac69a5c4b3714b8cbaedf7bb15187c3563925522a516cad6fd143863cf"
+            "hash": "1d7676e10f53b02f7af385b521db0e4599d1c7c896bb0daf78ed498717736144"
         }
     },
     "homepage": "https://github.com/vulcanshen/gittu",
